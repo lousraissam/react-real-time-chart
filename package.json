@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@arction/lcjs": "^3.4.0",
+    "@arction/xydata": "^1.4.0",
+    "@influxdata/influxdb-client-browser": "^1.26.0",
+    "@nivo/core": "^0.79.0",
+    "@nivo/line": "^0.79.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
     "@testing-library/user-event": "^13.5.0",
+    "apexcharts": "^3.35.2",
     "react": "^18.1.0",
+    "react-apexcharts": "^1.4.0",
     "react-dom": "^18.1.0",
+    "react-dynamic-charts": "^1.0.5",
     "react-scripts": "5.0.1",
+    "save": "^2.5.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
